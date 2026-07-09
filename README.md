@@ -87,8 +87,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FVimalRaval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VimalRaval)
 [![Gmail](https://img.shields.io/badge/Gmail-ravalvimal2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravalvimal2008@gmail.com)
+<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raval__vimal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/your-leetcode-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vimal_Raval/)
 
 </div>
 
