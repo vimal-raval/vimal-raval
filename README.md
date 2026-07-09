@@ -7,11 +7,7 @@
 </a>
 
 <br/>
-<br/>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvimal-raval&label=VISITORS&countColor=%23302b63&style=for-the-badge)](https://github.com/vimal-raval)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VimalRaval)
-[![Email](https://img.shields.io/badge/Email-ravalvimal2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravalvimal2008@gmail.com)
-<br/>
+
 [![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvimal-raval&label=VISITORS&countColor=%23302b63&style=flat-square)](https://github.com/vimal-raval)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/VimalRaval)
