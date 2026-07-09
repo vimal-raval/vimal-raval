@@ -79,52 +79,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="100%">
-
-### 📚 LevelUp Lab — Student Performance Analytics Platform
-A full-featured **Streamlit** platform for analyzing student performance, featuring:
-- 🔐 Google OAuth authentication with role-based access (Admin / Student)
-- 🗄️ SQLite-backed data layer with secure session handling
-- 🤖 ML-based difficulty analysis (KMeans clustering) for adaptive insights
-- 📄 Automated report generation and interactive data visualizations
-- 🎨 Custom dark, glassmorphism-styled authentication UI
-
-`Python` `Streamlit` `SQLite` `Scikit-learn` `OAuth`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>More projects coming soon — this space is always evolving 🔭</sub>
-</div>
-
-<br/>
-
-## 🧭 Learning Journey & Current Goals
-
-```text
-[ ✔ ] Built foundational skills in Python, Java, and web basics
-[ ✔ ] Developed full-stack analytics platform with ML integration
-[ » ] Deepening knowledge of Machine Learning & Data Science
-[ » ] Strengthening system design and software architecture fundamentals
-[   ] Contributing to open-source projects
-[   ] Working toward a career at ISRO's IT/CS division
-```
-
-<br/>
-
-## 🎯 Fun Facts
-
-- 🧩 I genuinely enjoy solving logic puzzles and mystery brain teasers in my free time
-- 🐍 Python is my go-to language for turning ideas into working prototypes fast
-- 🛰️ I keep an eye on ISRO's missions — it's the dream workplace
-- ☕ Best debugging happens after a good cup of chai
-
 <br/>
 
 ## 🤝 Connect With Me
