@@ -101,6 +101,8 @@
 
 <div align="center">
 
+<br/>
+
 > ### 🕉️ *उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्*
 > ### *"Elevate yourself through the power of your own mind, and not degrade yourself."*
 > — Bhagavad Gita, Chapter 6, Verse 5
