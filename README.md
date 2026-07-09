@@ -99,7 +99,9 @@
 
 <div align="center">
 
-### 💭 *"Small daily improvements are the key to staggering long-term results."*
+> ### 🕉️ *उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्*
+> ### *"Elevate yourself through the power of your own mind, and not degrade yourself."*
+> — Bhagavad Gita, Chapter 6, Verse 5
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vimal-raval&color=302b63&style=for-the-badge&label=VISITORS)
 
