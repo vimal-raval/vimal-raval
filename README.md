@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vimal-raval&color=6e6e8f&style=flat-square&label=Profile+Views)
+[![Profile Views](https://hits.sh/github.com/vimal-raval.svg?label=Profile%20Views&color=302b63&style=for-the-badge)](https://hits.sh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/VimalRaval)
 [![Gmail](https://img.shields.io/badge/Email-ravalvimal2008%40gmail.com-B23121?style=flat-square&logo=gmail&logoColor=white)](mailto:ravalvimal2008@gmail.com)
 
@@ -102,8 +102,9 @@
 > ### 🕉️ *उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्*
 > ### *"Elevate yourself through the power of your own mind, and not degrade yourself."*
 > — Bhagavad Gita, Chapter 6, Verse 5
+<br/>
+[![Visitor Count](https://hits.sh/github.com/vimal-raval.svg?label=Profile%20Views&color=302b63&style=for-the-badge)](https://hits.sh)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vimal-raval&color=302b63&style=for-the-badge&label=VISITORS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
