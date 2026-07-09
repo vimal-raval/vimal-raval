@@ -22,11 +22,6 @@
 >
 > Long-term, I'm working toward a career in the **IT/CS domain at ISRO**, combining my love for space, science, and software engineering.
 
-- 🔭 Currently building **LevelUp Lab** — a Streamlit-based Student Performance Analytics Platform
-- 🌱 Deepening my knowledge of Machine Learning and system design
-- 🎯 Long-term goal: contributing to India's space program through software
-- 🧩 Off-screen, you'll find me solving logic puzzles and mystery brain teasers
-- 📫 Reach me at **ravalvimal2008@gmail.com**
 
 <br/>
 
