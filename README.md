@@ -103,7 +103,7 @@
 > ### *"Elevate yourself through the power of your own mind, and not degrade yourself."*
 > — Bhagavad Gita, Chapter 6, Verse 5
 <br/>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vimal-raval.vimal-raval&color=302b63&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=vimal-raval&color=302b63&style=for-the-badge&label=VISITORS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
