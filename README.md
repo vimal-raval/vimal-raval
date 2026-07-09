@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://hits.sh/github.com/vimal-raval.svg?label=Profile%20Views&color=302b63&style=for-the-badge)](https://hits.sh)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=302b63&style=for-the-badge&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvimal-raval%2Fprofile-views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/VimalRaval)
 [![Gmail](https://img.shields.io/badge/Email-ravalvimal2008%40gmail.com-B23121?style=flat-square&logo=gmail&logoColor=white)](mailto:ravalvimal2008@gmail.com)
 
