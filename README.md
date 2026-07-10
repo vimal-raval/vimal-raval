@@ -18,7 +18,7 @@
 
 ## 🖋️ About Me
 
-> I'm an IT student from **Gujarat, India**, passionate about software development, artificial intelligence, and building things that actually solve problems. My work spans Python, Django, Machine Learning, and data visualization — and I'm continually sharpening my craft with every project I ship.
+> I'm an IT student from **Ahemdabad, India**, passionate about software development, artificial intelligence, and building things that actually solve problems. My work spans Python, Django, Machine Learning, and data visualization — and I'm continually sharpening my craft with every project I ship.
 >
 > Long-term, I'm working toward a career in the **IT/CS domain at ISRO**, combining my love for space, science, and software engineering.
 
