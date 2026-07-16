@@ -71,7 +71,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimal-raval&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A9A9C8&icon_color=6e6e8f&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-raval&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A9A9C8&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-raval&theme=dark&hide_border=true&background=0d1117&ring=6e6e8f&fire=A9A9C8&currStreakLabel=A9A9C8" />
+<img src="https://streak-stats.demolab.com/?user=vimal-raval&theme=dark&hide_border=true&background=0d1117&ring=6e6e8f&fire=A9A9C8&currStreakLabel=A9A9C8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-raval&theme=react-dark&hide_border=true&bg_color=0d1117&color=A9A9C8&line=6e6e8f&point=ffffff" />
 
