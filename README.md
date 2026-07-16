@@ -73,7 +73,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-raval&theme=dark&hide_border=true&background=0d1117&ring=6e6e8f&fire=A9A9C8&currStreakLabel=A9A9C8" />
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-raval&theme=react-dark&hide_border=true&bg_color=0d1117&color=A9A9C8&line=6e6e8f&point=ffffff" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-raval&theme=react-dark&hide_border=true&bg_color=0d1117&color=A9A9C8&line=6e6e8f&point=ffffff" />
 
 </div>
 
