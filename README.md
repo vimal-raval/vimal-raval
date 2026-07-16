@@ -85,7 +85,11 @@
 
 <div align="center">
 
-<img src="https://leetcode-stats-card.vercel.app/api?username=Vimal_Raval&theme=dark&border_color=6e6e8f&bg_color=0d1117&text_color=c9d1d9&title_color=A9A9C8" width="500"/>
+<img src="https://leetcard.jacoblin.cool/Vimal_Raval?theme=dark&font=Fira%20Code&bg_color=0d1117&border_color=6e6e8f&text_color=c9d1d9&title_color=A9A9C8" width="500"/>
+
+<br/>
+
+[![View Profile](https://img.shields.io/badge/View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vimal_Raval/)
 
 </div>
 
